@@ -1,0 +1,14 @@
+streamlit
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+
+
